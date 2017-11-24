@@ -1,4 +1,5 @@
-table, tr {border: 2px solid Teal;}
+table {border-color: Teal;
+       border-collapse: collapse;}
 
 .grey {background: LightGrey;}
 
